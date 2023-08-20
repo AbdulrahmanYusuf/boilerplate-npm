@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Abdulrahman Yusuf",
+	"description": "A project that will superise you",
 	"dependencies": {
 		"author": "Abdulrahman Yusuf",
 		"express": "^4.14.0"
