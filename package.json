@@ -2,6 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Abdulrahman Yusuf",
 	"description": "A project that will superise you",
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"author": "Abdulrahman Yusuf",
 		"express": "^4.14.0"
